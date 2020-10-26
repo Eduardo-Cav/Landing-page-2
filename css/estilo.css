@@ -356,4 +356,7 @@
             .rodape{
                 font-size: 16px;
             }
+            .banner{
+                background-position: left;
+            }
         }
